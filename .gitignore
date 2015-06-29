@@ -1,0 +1,6 @@
+*.pyc
+data/
+data_source/
+model/
+Zips(bkp)/
+*__pycache__*
