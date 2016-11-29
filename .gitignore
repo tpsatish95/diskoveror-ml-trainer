@@ -4,3 +4,4 @@ data_source/
 model/
 Zips(bkp)/
 *__pycache__*
+.DS_Store
