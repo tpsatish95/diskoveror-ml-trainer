@@ -27,12 +27,12 @@ USP's of our model,
 
 #### **The Working**
 
-   <center>![The Working](Assets/Topic Model Work Flow.jpg)</center>
+   <center>![The Working](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/topic-model-work-flow.jpg)</center>
 
 #### **Results Snippet**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
 
-<center>![Results Snippet](Assets/topics-results.jpg)</center>
+<center>![Results Snippet](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/topics-results.jpg)</center>
 
 
 
@@ -73,13 +73,13 @@ Sentiment Analysis has always been a great research problem to solve, most of th
 
 #### **Modelling**
 
-<center>![Modelling](Assets/Sentiment Analysis Workflow.jpg)</center>
+<center>![Modelling](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiment-analysis-workflow.jpg)</center>
 
 #### **Prediction and Scoring**
 
-<center>![Prediction and Scoring](Assets/Sentiments Working.jpg)</center>
+<center>![Prediction and Scoring](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiments-working.jpg)</center>
 
 #### **Results Snippets**
    On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
 
-  <center>![Results Snippets](Assets/sentiments-results.jpg)</center>
+  <center>![Results Snippets](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiments-results.jpg)</center>
