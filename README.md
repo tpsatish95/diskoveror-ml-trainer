@@ -27,12 +27,12 @@ USP's of our model,
 
 #### **The Working**
 
-   <center>![The Working](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/topic-model-work-flow.jpg)</center>
+   ![The Working](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/topic-model-work-flow.jpg)
 
 #### **Results Snippet**
 As our model is semi supervised we don’t have train or test data to evaluate our model, but we did randomly sample     a set of 5 tweets from twitter and have presented the results below (we got 4 out of 5 right !).
 
-<center>![Results Snippet](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/topics-results.jpg)</center>
+  ![Results Snippet](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/topics-results.jpg)
 
 
 
@@ -73,13 +73,13 @@ Sentiment Analysis has always been a great research problem to solve, most of th
 
 #### **Modelling**
 
-<center>![Modelling](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiment-analysis-workflow.jpg)</center>
+  ![Modelling](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiment-analysis-workflow.jpg)
 
 #### **Prediction and Scoring**
 
-<center>![Prediction and Scoring](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiments-working.jpg)</center>
+  ![Prediction and Scoring](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiments-working.jpg)
 
 #### **Results Snippets**
    On an average each of our models have exceptional recall values ranging from 85% to 90%. (we are still working on      ways to improve the accuracy). Find below the result snippets,
 
-  <center>![Results Snippets](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiments-results.jpg)</center>
+  ![Results Snippets](https://raw.githubusercontent.com/tpsatish95/diskoveror-ml-trainer/master/Assets/sentiments-results.jpg)
